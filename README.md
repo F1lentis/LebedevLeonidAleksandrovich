@@ -10,7 +10,7 @@
 - **обреченно вздохнуть**, потому что интерфейс скаченного Android Studio отличается от того, который показывает преподаватель на занятии
 ## Настройка Android Studio
 - установить Flatter из Android Studio
-- скачать архивы SDK [Flatter](https://docs.flutter.dev/get-started/install) и [[Dart](https://dart.dev/get-dart). Распаковать архивы в папку "SDK", можно в папку с установленной Android Studio
+- скачать архивы SDK [Flatter](https://docs.flutter.dev/get-started/install) и [Dart](https://dart.dev/get-dart). Распаковать архивы в папку "SDK", можно в папку с установленной Android Studio
 - прописать в Android Studio пути к распакованным Flatter и Dart. *Не забывать сопровождать этот процесс томными вздохами по поводу того, что твоя версия отличается от той, на которой показывали как это делать*
 - **как-будто все готово**
 ## Создание первого проекта на Flutter
